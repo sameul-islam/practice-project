@@ -11,6 +11,5 @@
 > Thank you for taking the time to read the description of my project.
 
 🔗View the live demo of this project by clicking the link below.
- https://sameul-islam.github.io/practice-project/pagination-demo-main/
- https://sameul-islam.github.io/practice-project/pagination-demo/
+ https://sameul-islam.github.io/practice-project/pagination-demo/pagination-demo-main/
 
