@@ -12,4 +12,5 @@
 
 🔗View the live demo of this project by clicking the link below.
  https://sameul-islam.github.io/practice-project/pagination-demo-main/
+ https://sameul-islam.github.io/practice-project/pagination-demo/
 
